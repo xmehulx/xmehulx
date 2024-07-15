@@ -5,7 +5,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mehul and I'm a final year undergrad student. I'm from India, and am currently working for my cybersecurity certifications. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Mehul and I'm a graduate student majoring it IT Security. I am currently working on my red-team journey. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -20,11 +20,8 @@ Apart from coding, I upload Hackthebox writeups and also maintain a blog - you c
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Arch-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=for-the-badge&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Build-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Game-Steam-informational?style=for-the-badge&logo=steam&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmehulx&layout=compact)](https://github.com/xmehulx/github-readme-stats)
@@ -47,7 +44,7 @@ Apart from coding, I upload Hackthebox writeups and also maintain a blog - you c
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/_xmehulx_
+[1]: https://twitter.com/0x__shell
 [2]: https://github.com/xmehulx
 [3]: https://www.linkedin.com/in/mehul-singh-0x00/
 
